@@ -1,17 +1,11 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737535398778/f0122.txt;md5;1aa6ec5b5545453d6850174fc1fcc78c",
-"wallpaper":"https://深色壁纸.xxooo.cf/",
+  "spider": "https://gitee.com/wzbdyr/xcz/raw/master/xcz.jar",
+  "wallpaper": "http://我不是.肥猫.love:63/ppic/feimao.php",
+  "logo": "http://php.540734621.xyz/logo/logo.php",
 
 "sites":[
-{"key":"豆","name":"备用公众号【叨观荐影】","type": 3, "api": "csp_DouDou","indexs":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
 
-{"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 
-{"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
-
-{"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
-
-{"key":"Dm84","name":"🚌巴士┃动漫","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Wogg","name":"🤖┃PG┃玩偶哥哥","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG","jar":"./pg.jar;md5;c351c4037789aaa72530398dbd255529"},
 
 {"key":"Mogg","name":"🛒┃UC盘┃木偶哥哥","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$http://www.muoupan.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG","jar":"./pg.jar;md5;c351c4037789aaa72530398dbd255529"},
@@ -21,41 +15,7 @@
 
 "logo":"https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 
-"ijk":
-        [{"group":"软解码","options":
-                [{"category":4,"name":"opensles","value":"0"},
-                {"category":4,"name":"overlay-format","value":"842225234"},
-                {"category":4,"name":"framedrop","value":"1"},
-                {"category":4,"name":"soundtouch","value":"1"},
-                {"category":4,"name":"start-on-prepared","value":"1"},
-                {"category":1,"name":"http-detect-range-support","value":"0"},
-                {"category":1,"name":"fflags","value":"fastseek"},
-                {"category":2,"name":"skip_loop_filter","value":"48"},
-                {"category":4,"name":"reconnect","value":"1"},
-                {"category":4,"name":"max-buffer-size","value":"5242880"},
-                {"category":4,"name":"enable-accurate-seek","value":"0"},
-                {"category":4,"name":"mediacodec","value":"0"},
-                {"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-                {"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-                {"category":4,"name":"mediacodec-hevc","value":"0"},
-                {"category":1,"name":"dns_cache_timeout","value":"600000000"}]},
-        {"group":"硬解码","options":
-                [{"category":4,"name":"opensles","value":"0"},
-                {"category":4,"name":"overlay-format","value":"842225234"},
-                {"category":4,"name":"framedrop","value":"1"},
-                {"category":4,"name":"soundtouch","value":"1"},
-                {"category":4,"name":"start-on-prepared","value":"1"},
-                {"category":1,"name":"http-detect-range-support","value":"0"},
-                {"category":1,"name":"fflags","value":"fastseek"},
-                {"category":2,"name":"skip_loop_filter","value":"48"},
-                {"category":4,"name":"reconnect","value":"1"},
-                {"category":4,"name":"max-buffer-size","value":"5242880"},
-                {"category":4,"name":"enable-accurate-seek","value":"0"},
-                {"category":4,"name":"mediacodec","value":"1"},
-                {"category":4,"name":"mediacodec-auto-rotate","value":"1"},
-                {"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
-                {"category":4,"name":"mediacodec-hevc","value":"1"},
-                {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}]
+
 
 ##解码
 "ijk":
