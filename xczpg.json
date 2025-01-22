@@ -57,7 +57,7 @@
                 {"category":4,"name":"mediacodec-hevc","value":"1"},
                 {"category":1,"name":"dns_cache_timeout","value":"600000000"}]}]
 
-解码
+##解码
 "ijk":
         [{"group":"软解码","options":
                 [{"category":4,"name":"opensles","value":"0"},
