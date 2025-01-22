@@ -374,7 +374,7 @@
       "cookie": "file://TV/quark_cookie.txt",
       "uc_cookie": "file://TV/uc_cookie.txt",
       "danmu" : true
-    }, "timeout": 25},
+    }, "timeout": 25}
 ],
 
 "logo":"https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
