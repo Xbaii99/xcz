@@ -367,14 +367,7 @@
            "site": "http://feimaoai.site",
            "danmu": true
          }
-},
-
-{"key":"木偶弹幕","name":"🪵木偶┃弹幕","type":3,"api":"csp_MuouGuard","quickSearch":1, "changeable":1, "filterable":1, "ext": {
-      "token": "file://TV/ali_token.txt",
-      "cookie": "file://TV/quark_cookie.txt",
-      "uc_cookie": "file://TV/uc_cookie.txt",
-      "danmu" : true
-    }, "timeout": 25}
+}
 ],
 
 "logo":"https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
